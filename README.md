@@ -16,9 +16,3 @@ Device working on currently - Vivo T3 Lite 5G (Y28s 5G) MediaTek Dimensity 6300 
 - Python (if using a script)
 - USB Cable
 - Required drivers installed
-
-## 🚀 How to Use
-1. Put your Vivo phone into **Preloader Mode (BROM Mode)**  
-2. Run the exploit script:
-   ```sh
-   python exploit.py
