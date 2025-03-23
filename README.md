@@ -1,6 +1,8 @@
 # Vivo Bootloader Unlock Exploit
 🚀 A method to unlock the bootloader on Vivo devices with MediaTek chips.
-Any device request qwill be accepted
+Any device request will be accepted
+
+Device working on currently - Vivo T3 Lite 5G (Y28s 5G) MediaTek Dimensity 6300 (MT6835T)
 ## 🔥 Features
 ✅ Works on MTK-based Vivo phones  
 ✅ No official unlock code required  
